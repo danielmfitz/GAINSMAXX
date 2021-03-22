@@ -9,3 +9,7 @@ GAINSMAXX intakes some basic stats stats about yourself (weight, height etc) and
 - Some kind of GUI either through web browser or as a downloadable file
 - Further manipulation of variables like activity level to finetune results
 - Perhaps adding in more functions such as meal planning, macronutrients, etc
+
+# Definite things I am adding
+(stuff that I've probably just learnt through MOOC courses or tutorials)
+- splitting main function into various objects (e.g. TDEE calculation as a seperate object/method)
